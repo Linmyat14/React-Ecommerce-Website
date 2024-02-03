@@ -10,18 +10,18 @@ $carousel-control-next-icon-bg: url("../../public/images/right-arrow-svgrepo-com
     padding: 0;
 }
 .home-carousel-1 {
-    background-image: url("../../public/images/new-flavour-1.jpg");
+    background-image: url("../images/new-flavour-1.jpg");
     background-position: 0% 20%;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .home-carousel-2 {
-    background-image: url("../../public/images/new-flavour-2.jpg");
+    background-image: url("../images/new-flavour-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .home-carousel-3 {
-    background-image: url("../../public/images/new-flavour-3.jpg");
+    background-image: url("../images/new-flavour-3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -123,17 +123,17 @@ $carousel-control-next-icon-bg: url("../../public/images/right-arrow-svgrepo-com
     transition: .2s ease-in-out;
 }
 .new-flavour-carousel-1 {
-    background-image: url("../../public/images/new-flavour-1.jpg");
+    background-image: url("../images/new-flavour-1.jpg");
     background-position: center;
 }
 .new-flavour-carousel-2 {
-    background-image: url("../../public/images/new-flavour-2.jpg");
+    background-image: url("../images/new-flavour-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 .new-flavour-carousel-3 {
-    background-image: url("../../public/images/new-flavour-3.jpg");
+    background-image: url("../images/new-flavour-3.jpg");
     background-position: 60% 20%;
 
 }

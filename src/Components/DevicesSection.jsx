@@ -14,7 +14,7 @@ const DevicesSection = () => {
             </div>
             <div className=" col-6 col-lg-3 devices-section-col-2 position-relative ">
                 <img className="rounded position-absolute" 
-                src="../../public/images/devices-section-2.jpg" alt="" />
+                src="../images/devices-section-2.jpg" alt="" />
                 <div className="devices-hover text-white ps-3 position-absolute">
                     <div className="devices-text">
                         <h5>Devices</h5>

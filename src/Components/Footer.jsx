@@ -42,15 +42,15 @@ const Footer = () => {
         </div>
         <div className="col-6 col-md-4 col-lg-3 mt-4 mt-md-0">
             <h4 className="mb-3">Download Our App</h4>
-            <img src="../../public/images/QR-code.jpg" className="w-50" alt="" />
+            <img src="../images/QR-code.jpg" className="w-50" alt="" />
         </div>
       </div>
 
       <div className="row mt-2">
         <div className="col-4">
             <h4>Payment</h4>
-            <img className="w-25 rounded me-2" src="../../public/images/kbzpay-logo.jpg" alt="" />
-            <img className="w-25 rounded" src="../../public/images/wavepay-logo.png" alt="" />
+            <img className="w-25 rounded me-2" src="../images/kbzpay-logo.jpg" alt="" />
+            <img className="w-25 rounded" src="../images/wavepay-logo.png" alt="" />
         </div>
         <div className="col-4">
         <h4>Follow Us On</h4>
